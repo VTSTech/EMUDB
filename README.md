@@ -1,4 +1,4 @@
-#
+<pre>
  _____ __  __ _   _ ____  ____  
 | ____|  \/  | | | |  _ \| __ ) 
 |  _| | |\/| | | | | | | |  _ \ 
@@ -8,7 +8,7 @@
 EMUDB-00000
 
 Release Name: Emulation Database
-Release Date: 00/00/2018
+Release Date: 04/17/2018
 System:       NES SNES MD PSX N64 DC
 Developer:    YT_Veritas0923 (Nigel Todman)
 Publisher:    YT_Veritas0923 (Nigel Todman)
@@ -18,7 +18,8 @@ Cover:        N/A
 
 Filecount:    151
 Filename:     EMUDB-00001.ZIP
-#
+</pre>
+
 EMUDB-00001 10-Yard Fight
 
 EMUDB-00002 1942
