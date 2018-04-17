@@ -18,8 +18,8 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    151
-Filename:     EMUDB-00001.ZIP
+Filecount:    176
+Filename:     EMUDB-00002.ZIP
 
 EMUDB-00001 10-Yard Fight
 EMUDB-00002 1942
@@ -171,4 +171,29 @@ EMUDB-00147 Darkwing Duck
 EMUDB-00148 Dash Galaxy in the Alien Asylum
 EMUDB-00149 Day Dreamin' Davey
 EMUDB-00150 Days of Thunder
+EMUDB-00151 Deadly Towers
+EMUDB-00152 Defender II
+EMUDB-00153 Defender of the Crown
+EMUDB-00154 Defenders of Dynatron City
+EMUDB-00155 Deja Vu
+EMUDB-00156 Demon Sword
+EMUDB-00157 Desert Commander
+EMUDB-00158 Destination Earthstar
+EMUDB-00159 Destiny of an Emperor
+EMUDB-00160 Dick Tracy
+EMUDB-00161 Die Hard
+EMUDB-00162 Dig Dug II - Trouble in Paradise
+EMUDB-00163 Digger - The Legend of the Lost City
+EMUDB-00164 Dirty Harry - The War Against Drugs
+EMUDB-00165 Donkey Kong
+EMUDB-00166 Donkey Kong 3
+EMUDB-00167 Donkey Kong Classics
+EMUDB-00168 Donkey Kong Jr.
+EMUDB-00169 Donkey Kong Jr. Math
+EMUDB-00170 Double Dare
+EMUDB-00171 Double Dragon
+EMUDB-00172 Double Dragon II - The Revenge
+EMUDB-00173 Double Dragon III - The Sacred Stones
+EMUDB-00174 Double Dribble
+EMUDB-00175 Dr. Chaos
 </pre>
