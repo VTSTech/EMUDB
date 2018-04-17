@@ -1,23 +1,24 @@
-# _____ __  __ _   _ ____  ____  
-#| ____|  \/  | | | |  _ \| __ ) 
-#|  _| | |\/| | | | | | | |  _ \ 
-#| |___| |  | | |_| | |_| | |_) |
-#|_____|_|  |_|\___/|____/|____/ 
 #
-#EMUDB-00000
+ _____ __  __ _   _ ____  ____  
+| ____|  \/  | | | |  _ \| __ ) 
+|  _| | |\/| | | | | | | |  _ \ 
+| |___| |  | | |_| | |_| | |_) |
+|_____|_|  |_|\___/|____/|____/ 
+
+EMUDB-00000
+
+Release Name: Emulation Database
+Release Date: 00/00/2018
+System:       NES SNES MD PSX N64 DC
+Developer:    YT_Veritas0923 (Nigel Todman)
+Publisher:    YT_Veritas0923 (Nigel Todman)
+Github:       https://github.com/Veritas83
+Region:       NTSC-U
+Cover:        N/A
+
+Filecount:    151
+Filename:     EMUDB-00001.ZIP
 #
-#Release Name: Emulation Database
-#Release Date: 00/00/2018
-#System:       NES SNES MD PSX N64 DC
-#Developer:    YT_Veritas0923 (Nigel Todman)
-#Publisher:    YT_Veritas0923 (Nigel Todman)
-#Github:       https://github.com/Veritas83
-#Region:       NTSC-U
-#Cover:        N/A
-
-#Filecount:    151
-#Filename:     EMUDB-00001.ZIP
-
 EMUDB-00001 10-Yard Fight
 
 EMUDB-00002 1942
