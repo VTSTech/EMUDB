@@ -4,7 +4,7 @@
 <br><a href="http://www.nigeltodman.com/2018/04/17/emudb-emulation-database/">Homepage</a>
 <br><a href="https://github.com/Veritas83/EMUDB">GitHub</a>
 <br><a href="http://velociterium.com/5NxS">Download</a>
-<br><a href="http://emudb.nigeltodman.com/">HTTP Mirror</a>/">Mirror</a>
+<br><a href="http://emudb.nigeltodman.com/">HTTP Mirror</a>
 
 </b>
 <pre>
