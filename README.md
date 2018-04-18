@@ -1,7 +1,39 @@
-<img src="https://i.gyazo.com/f5d70f994739cbb2b1e894812cc320ec.png">
-<br>
+<br><img src="https://i.gyazo.com/54370cbdeec4c0c8a9a3b0ace0b9d612.png">
+<br><img src="https://i.gyazo.com/82f42c080b5f18dfbd756c3805298419.png">
+<b>
+<br><a href="http://www.nigeltodman.com/2018/04/17/emudb-emulation-database/">Homepage</a>
+<br><a href="https://github.com/Veritas83/EMUDB">GitHub</a>
+<br><a href="http://velociterium.com/5NxS">Download</a>
+<br><a href="http://emudb.nigeltodman.com/">HTTP Mirror</a>/">Mirror</a>
+
+</b>
 <pre>
- _____ __  __ _   _ ____  ____  
+The EMUDB project aims to add full verification and release information for all NTSC-U region games for all home video game systems.
+PAL Exclusive titles will also be included. NTSC-J may see support in the future, But I personally don't intend to maintain a NTSC-J catalog.
+
+A typical release in the EMUDB will contain the following:
+
+Release Name: (ie: 10-Yard Fight)
+Release Date: (ie: 10/18/1985)
+System:       (ie: NES Nintendo Entertainment System)
+Developer:    (ie: Irem)
+Publisher:    (ie: Irem)
+Game ID:      (ie: NES-TY-USA, SLUS-00144, etc)
+Region:       (ie: NTSC-U,PAL)
+Cover:        (ie: http://coversdb.nigeltodman.com/nes/10_yard_fight.jpg)
+
+Filecount:    (ie: 01)
+Filename:     (ie: 10-Yard Fight (U) [!].nes)
+
+CRC32:        (ie: c38b62cb)
+MD5:          (ie: 8caac792d5567da81e6846dbda833a57)
+SHA1:         (ie: 6416170dd2b2a741cfdade7ebec1cefb664e99e4)
+SHA256:       (ie: 7b7d6af8c16b24adf4c71a923481aba1fff2b7dca782f821fd5187bd7c562bd1)
+Verified by:  (ie: GoodNES)
+
+Wiki:         (ie: https://en.wikipedia.org/wiki/10-Yard_Fight)
+
+  _____ __  __ _   _ ____  ____  
 | ____|  \/  | | | |  _ \| __ ) 
 |  _| | |\/| | | | | | | |  _ \ 
 | |___| |  | | |_| | |_| | |_) |
@@ -10,7 +42,7 @@
 EMUDB-00000
 
 Release Name: Emulation Database
-Release Date: 04/17/2018
+Release Date: 04/18/2018 3:25:43 PM
 System:       NES SNES MD PSX N64 DC
 Developer:    YT_Veritas0923 (Nigel Todman)
 Publisher:    YT_Veritas0923 (Nigel Todman)
@@ -18,8 +50,8 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    201
-Filename:     EMUDB-00003.ZIP
+Filecount:    277
+Filename:     EMUDB-00004.ZIP
 
 EMUDB-00001 10-Yard Fight
 EMUDB-00002 1942
@@ -221,4 +253,80 @@ EMUDB-00197 Family Feud
 EMUDB-00198 Fantasy Zone (Tengen)
 EMUDB-00199 Faria - A World of Mystery & Danger!
 EMUDB-00200 Faxanadu
+EMUDB-00201 Felix the Cat
+EMUDB-00202 Ferrari - Grand Prix Challenge
+EMUDB-00203 Fester's Quest
+EMUDB-00204 Final Fantasy
+EMUDB-00205 Fire 'n Ice
+EMUDB-00206 Firehouse Rescue
+EMUDB-00207 Fist of the North Star
+EMUDB-00208 Flight of the Intruder
+EMUDB-00209 Flintstones, The - The Rescue of Dino & Hoppy
+EMUDB-00210 Flintstones, The - The Surprise at Dinosaur Peak!
+EMUDB-00211 Flying Dragon - The Secret Scroll
+EMUDB-00212 Flying Warriors
+EMUDB-00213 Formula One - Built To Win
+EMUDB-00214 Frankenstein - The Monster Returns
+EMUDB-00215 Freedom Force
+EMUDB-00216 Friday the 13th
+EMUDB-00217 Fun House
+EMUDB-00218 G.I. Joe - The Atlantis Factor
+EMUDB-00219 G.I. Joe
+EMUDB-00220 Galaga - Demons of Death
+EMUDB-00221 Galaxy 5000
+EMUDB-00222 Gargoyle's Quest II - The Demon Darkness
+EMUDB-00223 Gauntlet (Tengen)
+EMUDB-00224 Gauntlet
+EMUDB-00225 Gauntlet II
+EMUDB-00226 Gemfire
+EMUDB-00227 Genghis Khan
+EMUDB-00228 George Foreman's KO Boxing
+EMUDB-00229 Ghostbusters
+EMUDB-00230 Ghostbusters II
+EMUDB-00231 Ghosts 'N Goblins
+EMUDB-00232 Ghoul School
+EMUDB-00233 Goal!
+EMUDB-00234 Golf
+EMUDB-00235 Goal! Two
+EMUDB-00236 Godzilla - Monster of Monsters!
+EMUDB-00237 Godzilla 2 - War of the Monsters
+EMUDB-00238 Gold Medal Challenge '92
+EMUDB-00239 Golf Grand Slam
+EMUDB-00240 Golgo 13 - Top Secret Episode
+EMUDB-00241 Goonies II, The
+EMUDB-00242 Gotcha! - The Sport!
+EMUDB-00243 Gradius
+EMUDB-00244 Great Waldo Search, The
+EMUDB-00245 Greg Norman's Golf Power
+EMUDB-00246 Gremlins 2 - The New Batch
+EMUDB-00247 Guardian Legend, The
+EMUDB-00248 Guerrilla War
+EMUDB-00249 Gumshoe
+EMUDB-00250 Gun.Smoke
+EMUDB-00251 Gun-Nac
+EMUDB-00252 Gyruss
+EMUDB-00253 Harlem Globetrotters
+EMUDB-00254 Hatris
+EMUDB-00255 Heavy Barrel
+EMUDB-00256 Heavy Shreddin'
+EMUDB-00257 High Speed
+EMUDB-00258 Hollywood Squares
+EMUDB-00259 Home Alone
+EMUDB-00260 Home Alone 2 - Lost in New York
+EMUDB-00261 Hook
+EMUDB-00262 Hoops
+EMUDB-00263 Hudson Hawk
+EMUDB-00264 Hudson's Adventure Island
+EMUDB-00265 Hudson's Adventure Island II
+EMUDB-00266 Hudson's Adventure Island III
+EMUDB-00267 Hunt for Red October, The
+EMUDB-00268 Hydlide
+EMUDB-00269 I Can Remember
+EMUDB-00270 Ice Climber
+EMUDB-00271 Ice Hockey
+EMUDB-00272 Ikari III - The Rescue
+EMUDB-00273 Ikari Warriors
+EMUDB-00274 Image Fight
+EMUDB-00275 Ikari Warriors II - Victory Road
+EMUDB-00276 Immortal, The
 </pre>
