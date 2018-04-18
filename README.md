@@ -8,8 +8,8 @@
 
 </b>
 <pre>
-The EMUDB project aims to add full verification and release information for all NTSC-U region games for all home video game systems.
-PAL Exclusive titles will also be included. NTSC-J may see support in the future, But I personally don't intend to maintain a NTSC-J catalog.
+The EMUDB project aims to add full verification and release information for all NTSC-U region games for all
+home video game systems. PAL Exclusive titles will also be included. NTSC-J may see support in the future.
 
 A typical release in the EMUDB will contain the following:
 
