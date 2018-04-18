@@ -33,14 +33,6 @@ Verified by:  (ie: GoodNES)
 
 Wiki:         (ie: https://en.wikipedia.org/wiki/10-Yard_Fight)
 
- _____ __  __ _   _ ____  ____  
-| ____|  \/  | | | |  _ \| __ ) 
-|  _| | |\/| | | | | | | |  _ \ 
-| |___| |  | | |_| | |_| | |_) |
-|_____|_|  |_|\___/|____/|____/ 
-
-EMUDB-00000
-
 Release Name: Emulation Database
 Release Date: 04/18/2018 3:25:43 PM
 System:       NES SNES MD PSX N64 DC
