@@ -33,7 +33,7 @@ Verified by:  (ie: GoodNES)
 
 Wiki:         (ie: https://en.wikipedia.org/wiki/10-Yard_Fight)
 
-  _____ __  __ _   _ ____  ____  
+ _____ __  __ _   _ ____  ____  
 | ____|  \/  | | | |  _ \| __ ) 
 |  _| | |\/| | | | | | | |  _ \ 
 | |___| |  | | |_| | |_| | |_) |
