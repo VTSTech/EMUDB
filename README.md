@@ -18,8 +18,8 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    176
-Filename:     EMUDB-00002.ZIP
+Filecount:    201
+Filename:     EMUDB-00003.ZIP
 
 EMUDB-00001 10-Yard Fight
 EMUDB-00002 1942
@@ -196,4 +196,29 @@ EMUDB-00172 Double Dragon II - The Revenge
 EMUDB-00173 Double Dragon III - The Sacred Stones
 EMUDB-00174 Double Dribble
 EMUDB-00175 Dr. Chaos
+EMUDB-00176 Dr. Jekyll and Mr. Hyde
+EMUDB-00177 Dr. Mario
+EMUDB-00178 Dragon Fighter
+EMUDB-00179 Dragon Power
+EMUDB-00180 Dragon Spirit - The New Legend
+EMUDB-00181 Dragon Warrior
+EMUDB-00182 Dragon Warrior II
+EMUDB-00183 Dragon Warrior III
+EMUDB-00184 Dragon Warrior IV
+EMUDB-00185 Dragon's Lair
+EMUDB-00186 Duck Hunt
+EMUDB-00187 Duck Tales
+EMUDB-00188 Duck Tales 2
+EMUDB-00189 Dungeon Magic - Sword of the Elements
+EMUDB-00190 Dusty Diamond's All-Star Softball
+EMUDB-00191 Dynowarz - The Destruction of Spondylus
+EMUDB-00192 Elevator Action
+EMUDB-00193 Eliminator Boat Duel
+EMUDB-00194 Excitebike
+EMUDB-00195 F-117A Stealth Fighter
+EMUDB-00196 F-15 Strike Eagle
+EMUDB-00197 Family Feud
+EMUDB-00198 Fantasy Zone (Tengen)
+EMUDB-00199 Faria - A World of Mystery & Danger!
+EMUDB-00200 Faxanadu
 </pre>
