@@ -34,7 +34,7 @@ Verified by:  (ie: GoodNES)
 Wiki:         (ie: https://en.wikipedia.org/wiki/10-Yard_Fight)
 
 Release Name: Emulation Database
-Release Date: 04/18/2018 11:25:50 PM
+Release Date: 04/20/2018 4:21:48 AM
 System:       NES SNES MD PSX N64 DC
 Developer:    YT_Veritas0923 (Nigel Todman)
 Publisher:    YT_Veritas0923 (Nigel Todman)
@@ -42,8 +42,8 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    401
-Filename:     EMUDB-00005.ZIP
+Filecount:    694
+Filename:     EMUDB-00006.ZIP
 
 EMUDB-00001 10-Yard Fight
 EMUDB-00002 1942
