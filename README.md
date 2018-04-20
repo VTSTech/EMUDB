@@ -8,6 +8,18 @@
 
 </b>
 <pre>
+Release Name: Emulation Database
+Release Date: 04/20/2018 4:21:48 AM
+System:       NES SNES MD PSX N64 DC
+Developer:    YT_Veritas0923 (Nigel Todman)
+Publisher:    YT_Veritas0923 (Nigel Todman)
+Github:       https://github.com/Veritas83
+Region:       NTSC-U
+Cover:        N/A
+
+Filecount:    694
+Filename:     EMUDB-00006.ZIP
+
 The EMUDB project aims to add full verification and release information for all NTSC-U region games for all
 home video game systems. PAL Exclusive titles will also be included. NTSC-J may see support in the future.
 
@@ -32,32 +44,4 @@ SHA256:       (ie: 7b7d6af8c16b24adf4c71a923481aba1fff2b7dca782f821fd5187bd7c562
 Verified by:  (ie: GoodNES)
 
 Wiki:         (ie: https://en.wikipedia.org/wiki/10-Yard_Fight)
-
-Release Name: Emulation Database
-Release Date: 04/20/2018 4:21:48 AM
-System:       NES SNES MD PSX N64 DC
-Developer:    YT_Veritas0923 (Nigel Todman)
-Publisher:    YT_Veritas0923 (Nigel Todman)
-Github:       https://github.com/Veritas83
-Region:       NTSC-U
-Cover:        N/A
-
-Filecount:    694
-Filename:     EMUDB-00006.ZIP
-
-EMUDB-00001 10-Yard Fight
-EMUDB-00002 1942
-EMUDB-00003 1943 - The Battle of Midway
-EMUDB-00004 3-D Battles of World Runner, The
-EMUDB-00005 720
-EMUDB-00006 8 Eyes
-EMUDB-00007 Abadox - The Deadly Inner War
-EMUDB-00008 Action 52 (Active Enterprises)
-EMUDB-00009 Addams Family, The
-EMUDB-00010 Addams Family, The - Pugsley's Scavenger Hunt
-..
-EMUDB-00136 Contra
-EMUDB-00137 Contra Force
-EMUDB-00138 Cool World
-..
 </pre>
