@@ -7,7 +7,7 @@
 EMUDB-00000
 
 Release Name: Emulation Database
-Release Date: 04/20/2018 4:21:48 AM
+Release Date: 04/20/2018 6:39:40 AM
 System:       NES SNES MD PSX N64 DC
 Developer:    YT_Veritas0923 (Nigel Todman)
 Publisher:    YT_Veritas0923 (Nigel Todman)
@@ -15,7 +15,7 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    694
+Filecount:    698
 Filename:     EMUDB-00006.ZIP
 
 EMUDB-00001 10-Yard Fight
@@ -42,7 +42,7 @@ EMUDB-00021 Adventures of Lolo 3
 EMUDB-00022 Adventures of Rad Gravity, The
 EMUDB-00023 Adventures of Rocky and Bullwinkle and Friends, The
 EMUDB-00024 Adventures of Tom Sawyer
-EMUDB-00025 After Burner
+EMUDB-00025 After Burner (Tengen)
 EMUDB-00026 Air Fortress
 EMUDB-00027 Airwolf
 EMUDB-00028 Al Unser Jr. Turbo Racing
@@ -711,3 +711,7 @@ EMUDB-00690 Zanac
 EMUDB-00691 Zelda II - The Adventure of Link
 EMUDB-00692 Zen - Intergalactic Ninja
 EMUDB-00693 Zombie Nation
+EMUDB-00694 Clu Clu Land
+EMUDB-00695 Gyromite
+EMUDB-00696 Hogan's Alley
+EMUDB-00697 Popeye
