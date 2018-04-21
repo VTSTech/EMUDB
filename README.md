@@ -1,5 +1,5 @@
-<br><img src="https://i.gyazo.com/af403dd157db659fda6d7a9af6b7c70b.png">
-<br><img src="https://i.gyazo.com/3393ce52bd36f5f49ca561fe4db7533c.png">
+<br><img src="https://i.gyazo.com/f5340bd590af7e2252648314fff56c1f.png">
+<br><img src="https://i.gyazo.com/a25739a7de8db5c96eb6d3725755b9c1.png">
 <b>
 <br><a href="http://www.nigeltodman.com/2018/04/17/emudb-emulation-database/">Homepage</a>
 <br><a href="https://github.com/Veritas83/EMUDB">GitHub</a>
@@ -9,7 +9,7 @@
 </b>
 <pre>
 Release Name: Emulation Database
-Release Date: 04/20/2018 6:39:40 AM
+Release Date: 04/20/2018 9:18:38 PM
 System:       NES SNES MD PSX N64 DC
 Developer:    YT_Veritas0923 (Nigel Todman)
 Publisher:    YT_Veritas0923 (Nigel Todman)
@@ -17,8 +17,8 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    698
-Filename:     EMUDB-00006.ZIP
+Filecount:    726
+Filename:     EMUDB-00007.ZIP
 
 The EMUDB project aims to add full verification and release information for all NTSC-U region games for all
 home video game systems. PAL Exclusive titles will also be included. NTSC-J may see support in the future.
