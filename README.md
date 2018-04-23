@@ -9,7 +9,7 @@
 </b>
 <pre>
 Release Name: Emulation Database
-Release Date: 04/21/2018 8:23:46 PM
+Release Date: 04/22/2018 8:40:26 PM
 System:       NES SNES MD PSX N64 DC
 Developer:    YT_Veritas0923 (Nigel Todman)
 Publisher:    YT_Veritas0923 (Nigel Todman)
@@ -17,7 +17,7 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    742
+Filecount:    759
 Filename:     EMUDB-00008.ZIP
 
 The EMUDB project aims to add full verification and release information for all NTSC-U region games for all
