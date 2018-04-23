@@ -7,7 +7,7 @@
 EMUDB-00000
 
 Release Name: Emulation Database
-Release Date: 04/22/2018 10:39:04 PM
+Release Date: 04/23/2018 1:15:23 AM
 System:       NES SNES MD PSX N64 DC
 Developer:    YT_Veritas0923 (Nigel Todman)
 Publisher:    YT_Veritas0923 (Nigel Todman)
@@ -15,7 +15,7 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    768
+Filecount:    772
 Filename:     EMUDB-00008.ZIP
 
 EMUDB-00001 10-Yard Fight
@@ -785,3 +785,7 @@ EMUDB-00764 Thomas the Tank Engine and Friends (Prototype)
 EMUDB-00765 Time Diver Eon Man (Prototype)
 EMUDB-00766 Titan Warriors (Prototype)
 EMUDB-00767 Xybots (Prototype)
+EMUDB-00768 Reserved
+EMUDB-00769 Reserved
+EMUDB-00770 Reserved
+EMUDB-00771 3 Ninjas Kick Back
