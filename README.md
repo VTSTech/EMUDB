@@ -1,5 +1,7 @@
-<br><img src="https://i.gyazo.com/f5340bd590af7e2252648314fff56c1f.png">
-<br><img src="https://i.gyazo.com/a25739a7de8db5c96eb6d3725755b9c1.png">
+<br><img src="https://i.gyazo.com/5993987ffc89d08866bc48ff7b003fec.png">
+<br><img src="https://i.gyazo.com/0f1b528177c54cdd5e880f0f7c626999.png">
+<br><img src="https://i.gyazo.com/c0e17ca3c9f43a73bf1fcc80d8818fda.png">
+
 <b>
 <br><a href="http://www.nigeltodman.com/2018/04/17/emudb-emulation-database/">Homepage</a>
 <br><a href="https://github.com/Veritas83/EMUDB">GitHub</a>
@@ -9,7 +11,7 @@
 </b>
 <pre>
 Release Name: Emulation Database
-Release Date: 04/22/2018 8:40:26 PM
+Release Date: 04/23/2018 1:15:23 AM
 System:       NES SNES MD PSX N64 DC
 Developer:    YT_Veritas0923 (Nigel Todman)
 Publisher:    YT_Veritas0923 (Nigel Todman)
@@ -17,7 +19,7 @@ Github:       https://github.com/Veritas83
 Region:       NTSC-U
 Cover:        N/A
 
-Filecount:    759
+Filecount:    772
 Filename:     EMUDB-00008.ZIP
 
 The EMUDB project aims to add full verification and release information for all NTSC-U region games for all
@@ -47,7 +49,11 @@ Wiki:         (ie: https://en.wikipedia.org/wiki/10-Yard_Fight)
 --
 Done so far:
 
+NES Tentatively 100% Complete
+
 EMUDB-00001 thru 00697 Every released NTSC NES Game
 EMUDB-00698 thru 00732 Every released PAL Exclusive NES Game
-EMUDB-00733+ Never released games, Known to exist. Some are available. Others have yet to be 'discovered'
+EMUDB-00733 thru 00767 Never released games, Known to exist. Some are available. Others have yet to be 'discovered'
+EMUDB-00768-thru 00770 reserved for what few surprise NES carts that may be discovered.
+EMUDB-00771+ MD SEGA Genesis/MegaDrive starts...
 </pre>
