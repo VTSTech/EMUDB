@@ -1,11 +1,11 @@
-<br><img src="https://i.gyazo.com/5993987ffc89d08866bc48ff7b003fec.png">
+<br><img src="https://i.gyazo.com/837d3aa3f530266524784bc094b619d9.png">
 <br><img src="https://i.gyazo.com/0f1b528177c54cdd5e880f0f7c626999.png">
 <br><img src="https://i.gyazo.com/c0e17ca3c9f43a73bf1fcc80d8818fda.png">
 
 <b>
 <br><a href="http://www.nigeltodman.com/2018/04/17/emudb-emulation-database/">Homepage</a>
 <br><a href="https://github.com/Veritas83/EMUDB">GitHub</a>
-<br><a href="http://zipansion.com/So7">Download</a>
+<br><a href="http://zipansion.com/40Ws">Download</a>
 <br><a href="http://emudb.nigeltodman.com/">HTTP Mirror</a>
 
 </b>
