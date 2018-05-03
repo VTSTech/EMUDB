@@ -1,0 +1,33 @@
+ _____ __  __ _   _ ____  ____
+| ____|  \/  | | | |  _ \| __ )
+|  _| | |\/| | | | | | | |  _ \
+| |___| |  | | |_| | |_| | |_) |
+|_____|_|  |_|\___/|____/|____/
+
+EMUDB-00978
+
+Release Name: FIFA Soccer 2000 Gold Edition
+Release Date: 11/00/1999
+System:       MD SEGA Genesis/MegaDrive
+Developer:    XYZ Productions
+Publisher:    Extended Play Productions
+Game ID:      T-183457
+Region:       NTSC-U
+Cover:        N/A
+
+Filecount:    01
+Filename:     FIFA Soccer 2000 Gold Edition (Unl) (M6) [!].bin
+
+CRC32:        647df504
+MD5:          59c86710c566c09c7471d8b3e03fb7bc
+SHA1:         ed29312dbd9574514c06e5701e24c6474ed84898
+SHA256:       3b1c14f78a3327b15f6ba10bcb9bf0b1442713c9ffee3a9f43a9873996e30e97
+Verified By:  GoodGEN
+
+Wiki:
+
+https://segaretro.org/Mega_Drive_Unlicensed_Game_Emulation_Notes
+
+Notes:
+
+Game ID in ROM Header, Dev/Pub in game credits.
